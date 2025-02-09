@@ -172,7 +172,7 @@ sections:
         textAlign: center
   - subtitle: Nuestros afiliados
     images:
-      - url: /images/microsoft.svg
+      - url: /images/images.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
