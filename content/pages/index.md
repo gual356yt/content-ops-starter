@@ -7,7 +7,7 @@ sections:
       text: Unlock your full potencial at SkyLand Servers
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ~skylnd Team
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
