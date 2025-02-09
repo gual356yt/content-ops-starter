@@ -172,7 +172,7 @@ sections:
         textAlign: center
   - subtitle: Nuestros afiliados
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/Minecraft-Logo.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
