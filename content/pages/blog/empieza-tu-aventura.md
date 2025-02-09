@@ -36,19 +36,15 @@ bottomSections:
       text: ¿Como podemos Ayudar?
       color: text-dark
     subtitle: ¿Tienes algún problema?
-    text: >+
-      ¿Necesitas ayuda?
-
-
+    text: >
       ¡Hola! Nuestro equipo de staff está aquí para ayudarte. Si tienes
       preguntas, inquietudes o necesitas asistencia con nuestros servicios, no
       dudes en contactarnos. Tu satisfacción es muy importante para nosotros, y
-      queremos asegurarnos de que tengas la mejor experiencia posible. 
+      queremos asegurarnos de que tengas la mejor experiencia posible.
 
 
       Completa el formulario a continuación o envíanos un correo electrónico, y
       estaremos encantados de asistirte. ¡Gracias por confiar en nosotros!
-
     actions: []
     media:
       type: FormBlock
