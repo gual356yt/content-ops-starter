@@ -37,13 +37,9 @@ bottomSections:
       color: text-dark
     subtitle: ¿Tienes algún problema?
     text: >
-      ¡Hola! Nuestro equipo de staff está aquí para ayudarte. 
-
-
-      Si tienes preguntas, inquietudes o necesitas asistencia con nuestros
-      servicios, no dudes en contactarnos. Tu satisfacción es muy importante
-      para nosotros, y queremos asegurarnos de que tengas la mejor experiencia
-      posible.
+      ¡Hola! Nuestro equipo de staff está aquí para ayudarte. Tu satisfacción es
+      muy importante para nosotros, y queremos asegurarnos de que tengas la
+      mejor experiencia posible.
 
 
       Completa el formulario a continuación o envíanos un correo electrónico, y
