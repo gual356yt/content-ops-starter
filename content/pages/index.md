@@ -172,9 +172,6 @@ sections:
         textAlign: center
   - subtitle: Nuestros afiliados
     images:
-      - url: /images/Minecraft-Logo.png
-        altText: Minecraft logo
-        type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
