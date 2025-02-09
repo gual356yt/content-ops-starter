@@ -170,7 +170,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Compañias con las cuales trebajamos
+  - subtitle: Nuestros afiliados
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
