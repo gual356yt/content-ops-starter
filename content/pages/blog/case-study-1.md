@@ -3,7 +3,7 @@ title: >-
   "SkyLand: El Nuevo Servidor Full Vanilla de Minecraft que Revolucionará la
   Experiencia de Juego"
 slug: case-study-1
-date: '2025-05-06'
+date: '2025-02-09'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
