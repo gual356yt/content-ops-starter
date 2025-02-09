@@ -33,7 +33,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: How can we help?
+      text: ¿Como podemos Ayudar?
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
