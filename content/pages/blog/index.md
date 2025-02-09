@@ -8,7 +8,7 @@ topSections:
       text: Publicación destacada
       color: text-dark
       type: TitleBlock
-    subtitle: 'Empieza leyendo estos:'
+    subtitle: Empieza con esto
     posts:
       - content/pages/blog/empieza-tu-aventura.md
     showThumbnail: true
