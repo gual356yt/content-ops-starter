@@ -66,7 +66,7 @@ bottomSections:
           name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Tu mensaje o duda
           width: full
       submitButton:
         type: SubmitButtonFormControl
