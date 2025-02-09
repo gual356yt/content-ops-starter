@@ -172,8 +172,7 @@ sections:
         textAlign: center
   - subtitle: Nuestros afiliados
     images:
-      - url: /images/microsoft (1).png
-        altText: Microsoft logo
+      - altText: Microsoft logo
         type: ImageBlock
         styles:
           self:
