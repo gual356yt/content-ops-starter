@@ -203,7 +203,7 @@ sections:
     type: ImageGallerySection
     badge:
       type: Badge
-      label: This is a badge
+      label: SKYLND
       color: text-primary
   - posts:
       - content/pages/blog/case-study-1.md
