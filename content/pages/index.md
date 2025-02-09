@@ -172,7 +172,7 @@ sections:
         textAlign: center
   - subtitle: Nuestros afiliados
     images:
-      - url: /images/images.png
+      - url: /images/microsoft (1).png
         altText: Vise logo
         type: ImageBlock
       - altText: Telus logo
