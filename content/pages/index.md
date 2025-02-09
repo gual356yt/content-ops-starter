@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unlock your full potencial at SkyLand Servers
+      text: Desata todo tu potencial en SkyLand Servers
       color: text-dark
       type: TitleBlock
     subtitle: ~skylnd Team
