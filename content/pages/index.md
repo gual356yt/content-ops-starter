@@ -173,7 +173,7 @@ sections:
   - subtitle: Nuestros afiliados
     images:
       - url: /images/Minecraft-Logo.png
-        altText: Empathy logo
+        altText: Minecraft logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
