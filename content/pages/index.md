@@ -175,6 +175,10 @@ sections:
       - url: /images/microsoft (1).png
         altText: Microsoft logo
         type: ImageBlock
+        styles:
+          self:
+            margin:
+              - mt-36
       - altText: Telus logo
         type: ImageBlock
         url: /images/microsoft.png
