@@ -177,7 +177,7 @@ sections:
         type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
-        url: /images/microsoft (1).svg
+        url: /images/microsoft.png
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
