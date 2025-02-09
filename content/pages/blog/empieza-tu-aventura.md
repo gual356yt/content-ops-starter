@@ -105,7 +105,12 @@ Bienvenido a SkyLand, el servidor de Minecraft creado por los desarrolladores de
 
 Para unirte a nuestra emocionante aventura en SkyLand, simplemente ingresa la siguiente dirección IP en tu cliente de Minecraft:
 
+
+
 > ***play.skylandmc.xyz***
+
+
 
 Si tienes alguna pregunta o necesitas asistencia, no dudes en contactarnos a través de nuestro correo electrónico. ¡Estamos aquí para ayudarte y esperamos verte pronto en SkyLand!
 
+![](/images/maxresdefault%20\(1\)%20\(4\).png)
