@@ -28,7 +28,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
+      - title: Sobre nuestra Compañia
         tagline: Equipo SKYLND
         subtitle: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
