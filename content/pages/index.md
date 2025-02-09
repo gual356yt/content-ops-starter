@@ -15,7 +15,7 @@ sections:
       cada jugador. ¡Te esperamos!
 
     actions:
-      - label: Apuntate
+      - label: ¡Empieza Ya!
         altText: ''
         url: /
         showIcon: false
