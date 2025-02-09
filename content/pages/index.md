@@ -170,25 +170,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Nuestros afiliados
-    images:
-      - url: /images/microsoft (1).png
-        altText: Microsoft logo
-        type: ImageBlock
-      - altText: Telus logo
-        type: ImageBlock
-        url: /images/microsoft.png
-      - url: /images/microsoft (2).png
-        altText: Contentful logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -208,6 +189,25 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
     hoverEffect: move-up
+  - subtitle: Nuestros afiliados
+    images:
+      - url: /images/microsoft (1).png
+        altText: Microsoft logo
+        type: ImageBlock
+      - altText: Telus logo
+        type: ImageBlock
+        url: /images/microsoft.png
+      - url: /images/microsoft (2).png
+        altText: Contentful logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
