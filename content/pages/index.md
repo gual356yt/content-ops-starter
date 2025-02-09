@@ -180,7 +180,7 @@ sections:
               - mt-36
       - altText: Telus logo
         type: ImageBlock
-        url: /images/microsoft.png
+        url: /images/New Project.png
       - url: /images/microsoft (2).png
         altText: Contentful logo
         type: ImageBlock
