@@ -175,7 +175,7 @@ sections:
       - url: /images/images.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/images (1).png
+      - url: /images/2.jpeg
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
