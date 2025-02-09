@@ -181,7 +181,7 @@ sections:
       - altText: Telus logo
         type: ImageBlock
         url: /images/New Project (2).png
-      - url: /images/microsoft (2).png
+      - url: /images/New Project (3).png
         altText: Contentful logo
         type: ImageBlock
     motion: move-to-left
