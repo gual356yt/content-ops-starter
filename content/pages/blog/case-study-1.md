@@ -87,8 +87,6 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-### **"SkyLand: El Nuevo Servidor Full Vanilla de Minecraft que Revolucionará la Experiencia de Juego"**
-
 **Introducción**
 El equipo SKYLND - Team se enorgullece de presentar su último proyecto: **SkyLand**, un servidor de Minecraft que busca devolver a los jugadores a la esencia del juego. En un mundo lleno de servidores que modifican la experiencia con plugins y mods, SkyLand se mantiene fiel al estilo *vanilla*, ofreciendo una experiencia pura que resalta lo mejor de Minecraft sin distracciones.
 
@@ -107,6 +105,3 @@ SkyLand no es solo otro servidor de Minecraft. Es una apuesta por la jugabilidad
 
 **Conclusión**
 SkyLand es la oportunidad perfecta para los jugadores que buscan sumergirse en una experiencia auténtica, sin alteraciones ni distracciones. Con su lanzamiento programado para la versión Java en los próximos meses, este servidor promete redefinir lo que significa jugar a Minecraft de manera *vanilla*.
-
-
-
