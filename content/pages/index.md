@@ -35,7 +35,7 @@ sections:
         type: Link
     media:
       url: /images/maxresdefault.jpg
-      altText: ol
+      altText: ola
       elementId: ''
       type: ImageBlock
     badge:
