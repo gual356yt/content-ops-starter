@@ -31,9 +31,9 @@ bottomSections:
       - title: Sobre nuestra Compañia
         tagline: Equipo SKYLND
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          La verdad no hay mucho que contar simplemente somos un joven equipo
+          sin experiencia que espera poder satisfacer las necesidades de su
+          comunidad
         image:
           url: /images/Logo Dark.png
           altText: Company logo
