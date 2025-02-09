@@ -1,7 +1,7 @@
 {
     "favicon": "/images/Mojang_Studios_Logo_(2020,_icon).svg",
     "footer": "content/data/footer.json",
-    "titleSuffix": "",
+    "titleSuffix": "SKYLND",
     "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
     "header": "content/data/header.json"
