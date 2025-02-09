@@ -34,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/maxresdefault.jpg
+      url: /images/maxresdefault (1) (3).png
       altText: ola
       elementId: ''
       type: ImageBlock
