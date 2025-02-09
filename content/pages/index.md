@@ -35,7 +35,7 @@ sections:
         type: Link
     media:
       url: /images/maxresdefault.jpg
-      altText: Unblock your team boost your time to production preview
+      altText: ol
       elementId: ''
       type: ImageBlock
     badge:
