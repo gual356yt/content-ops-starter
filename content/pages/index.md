@@ -173,7 +173,7 @@ sections:
   - subtitle: Nuestros afiliados
     images:
       - url: /images/microsoft (1).png
-        altText: Vise logo
+        altText: Microsoft logo
         type: ImageBlock
       - altText: Telus logo
         type: ImageBlock
