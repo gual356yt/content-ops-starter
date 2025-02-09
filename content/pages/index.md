@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: ~skylnd Team
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      ¡Bienvenido a nuestro servidor de Minecraft! Explora un mundo vibrante
+      creado por jugadores, donde tus bloques dan forma a la comunidad. Forma
+      equipo con tus amigos, embárcate en aventuras y construye estructuras
+      increíbles. ¡Únete a nosotros para disfrutar de eventos y desafíos en un
+      ambiente acogedor que valora las contribuciones de cada jugador!
     actions:
       - label: Get started
         altText: ''
