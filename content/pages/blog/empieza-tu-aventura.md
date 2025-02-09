@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: ¡Empieza tu Aventura!
-date: '2025-02-09'
+date: ''
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
