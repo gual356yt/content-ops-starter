@@ -36,11 +36,19 @@ bottomSections:
       text: ¿Como podemos Ayudar?
       color: text-dark
     subtitle: ¿Tienes algún problema?
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      ¿Necesitas ayuda?
+
+
+      ¡Hola! Nuestro equipo de staff está aquí para ayudarte. Si tienes
+      preguntas, inquietudes o necesitas asistencia con nuestros servicios, no
+      dudes en contactarnos. Tu satisfacción es muy importante para nosotros, y
+      queremos asegurarnos de que tengas la mejor experiencia posible. 
+
+
+      Completa el formulario a continuación o envíanos un correo electrónico, y
+      estaremos encantados de asistirte. ¡Gracias por confiar en nosotros!
+
     actions: []
     media:
       type: FormBlock
