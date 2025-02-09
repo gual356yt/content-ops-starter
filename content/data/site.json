@@ -2,7 +2,7 @@
     "favicon": "/images/Logo Dark.png",
     "footer": "content/data/footer.json",
     "titleSuffix": "SKYLND",
-    "defaultSocialImage": "/images/main-hero.jpg",
+    "defaultSocialImage": "/images/maxresdefault (1) (5).png",
     "type": "Config",
     "header": "content/data/header.json"
 }
