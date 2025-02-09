@@ -17,7 +17,7 @@ sections:
     actions:
       - label: ¡Empieza Ya!
         altText: ''
-        url: /empieza-tu-aventura
+        url: /blog/empieza-tu-aventura
         showIcon: false
         icon: arrowRight
         iconPosition: right
