@@ -8,12 +8,12 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ~skylnd Team
-    text: >
-      ¡Bienvenido a nuestro servidor de Minecraft! Explora un mundo vibrante
-      creado por jugadores, donde tus bloques dan forma a la comunidad. Forma
-      equipo con tus amigos, embárcate en aventuras y construye estructuras
-      increíbles. ¡Únete a nosotros para disfrutar de eventos y desafíos en un
-      ambiente acogedor que valora las contribuciones de cada jugador!
+    text: >+
+      ¡Bienvenido a nuestro servidor de Minecraft! Explora un mundo vibrante,
+      forma equipo con amigos y construye estructuras impresionantes. Únete a
+      nosotros para disfrutar de eventos y desafíos en un ambiente que valora a
+      cada jugador. ¡Te esperamos!
+
     actions:
       - label: Get started
         altText: ''
