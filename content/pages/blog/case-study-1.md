@@ -1,5 +1,7 @@
 ---
-title: Case study 1
+title: >-
+  "SkyLand: El Nuevo Servidor Full Vanilla de Minecraft que Revolucionará la
+  Experiencia de Juego"
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
