@@ -1,7 +1,9 @@
 ---
-title: Case study 1
+title: >-
+  "SkyLand: El Nuevo Servidor Full Vanilla de Minecraft que Revolucionará la
+  Experiencia de Juego"
 slug: case-study-1
-date: '2022-01-05'
+date: '2025-02-09'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
@@ -26,14 +28,14 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
-        tagline: This is the tagline
+      - title: Sobre nuestra Compañia
+        tagline: Equipo SKYLND
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          La verdad no hay mucho que contar simplemente somos un joven equipo
+          sin experiencia que espera poder satisfacer las necesidades de su
+          comunidad
         image:
-          url: /images/telus-logo.svg
+          url: /images/Logo Dark.png
           altText: Company logo
           styles:
             self:
@@ -87,14 +89,21 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+**Introducción**
+El equipo SKYLND - Team se enorgullece de presentar su último proyecto: **SkyLand**, un servidor de Minecraft que busca devolver a los jugadores a la esencia del juego. En un mundo lleno de servidores que modifican la experiencia con plugins y mods, SkyLand se mantiene fiel al estilo *vanilla*, ofreciendo una experiencia pura que resalta lo mejor de Minecraft sin distracciones.
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> *By Clara White - VP of Marketing*
-
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**¿Qué hace único a SkyLand?**
+SkyLand no es solo otro servidor de Minecraft. Es una apuesta por la jugabilidad más auténtica. El servidor está completamente libre de modificaciones externas, lo que significa que los jugadores podrán disfrutar del juego tal y como fue diseñado por Mojang, con mecánicas originales, sin alteraciones en el código ni aditivos que cambian la dinámica del juego.
 
 ![](/images/maxresdefault%20\(1\).png)
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+**Características destacadas**
+
+*   **Sin modificaciones:** SkyLand es un servidor completamente vanilla, ideal para los jugadores que buscan la experiencia original de Minecraft sin los cambios de plugins o mods.
+
+*   **Comunidad inclusiva:** El servidor promueve un ambiente amistoso, donde todos los jugadores son bienvenidos a formar parte de un mundo compartido y a contribuir en la construcción colectiva.
+
+*   **Competencias y eventos:** Aunque el servidor se mantiene en su forma más pura, el equipo SKYLND - Team organiza eventos y desafíos que añaden emoción y motivación para los jugadores, sin comprometer el estilo clásico.
+
+**Conclusión**
+SkyLand es la oportunidad perfecta para los jugadores que buscan sumergirse en una experiencia auténtica, sin alteraciones ni distracciones. Con su lanzamiento programado para la versión Java en los próximos meses, este servidor promete redefinir lo que significa jugar a Minecraft de manera *vanilla*.

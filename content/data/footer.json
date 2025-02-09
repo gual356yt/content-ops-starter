@@ -4,9 +4,9 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "La verdad no hay mucho que contar simplemente somos un joven equipo sin experiencia que espera poder satisfacer las necesidades de su comunidad\n\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Producto",
         "links": [
             {
                 "label": "Features",
@@ -37,7 +37,7 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Compañia",
         "links": [
             {
                 "label": "Careers",
@@ -87,7 +87,7 @@
     ],
     "legalLinks": [
         {
-            "label": "Terms",
+            "label": "Terminos",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -95,7 +95,7 @@
             "type": "Link"
         },
         {
-            "label": "Privacy",
+            "label": "Privacidad",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -103,7 +103,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
+    "copyrightText": "Copyright [SkyLandMc](skylandmc.xyz) 2025\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
