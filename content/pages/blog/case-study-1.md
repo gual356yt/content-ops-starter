@@ -29,7 +29,7 @@ bottomSections:
     type: DividerSection
   - items:
       - title: About Company
-        tagline: This is the tagline
+        tagline: Equipo SKYLND
         subtitle: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
