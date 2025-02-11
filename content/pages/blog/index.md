@@ -11,7 +11,7 @@ topSections:
     subtitle: Empieza con esto
     posts:
       - content/pages/blog/case-study-1.md
-    showThumbnail: false
+    showThumbnail: true
     showExcerpt: true
     showDate: true
     showAuthor: true
