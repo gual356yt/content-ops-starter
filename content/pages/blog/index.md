@@ -10,9 +10,9 @@ topSections:
       type: TitleBlock
     subtitle: Empieza con esto
     posts:
-      - content/pages/blog/empieza-tu-aventura.md
+      - content/pages/blog/case-study-1.md
     showThumbnail: true
-    showExcerpt: true
+    showExcerpt: false
     showDate: true
     showAuthor: true
     variant: big-list
