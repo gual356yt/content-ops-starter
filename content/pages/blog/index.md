@@ -9,8 +9,7 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: Empieza con esto
-    posts:
-      - content/pages/blog/empieza-tu-aventura.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
