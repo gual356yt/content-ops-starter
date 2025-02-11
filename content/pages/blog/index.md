@@ -9,7 +9,8 @@ topSections:
       color: text-dark
       type: TitleBlock
     subtitle: Empieza con esto
-    posts: []
+    posts:
+      - content/pages/blog/case-study-1.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
