@@ -53,7 +53,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Nuestros afiliados
+  - subtitle: Most used programs
     images:
       - altText: Microsoft logo
         type: ImageBlock
